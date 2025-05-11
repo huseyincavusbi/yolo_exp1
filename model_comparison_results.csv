@@ -1,0 +1,281 @@
+image_id,model_name,num_detections,detected_labels,avg_confidence,processing_time_ms
+1501822123109584.png,yolo11m,14,car;truck;car;car;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;traffic light;car;traffic light,0.75,881.91
+1501822123109584.png,yolov5m,16,car;truck;car;car;traffic light;car;traffic light;car;traffic light;traffic light;train;traffic light;traffic light;car;traffic light;traffic light,0.73,438.65
+1501822123278663.png,yolo11m,15,car;truck;car;car;car;car;traffic light;traffic light;traffic light;traffic light;traffic light;car;traffic light;car;traffic light,0.75,541.92
+1501822123278663.png,yolov5m,18,car;truck;car;car;car;traffic light;traffic light;traffic light;car;traffic light;traffic light;car;car;traffic light;traffic light;train;traffic light;car,0.70,424.85
+1501822123447719.png,yolo11m,14,car;car;truck;car;car;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;car;car;traffic light,0.76,545.56
+1501822123447719.png,yolov5m,17,truck;car;car;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;car;car;traffic light;traffic light;train;car;traffic light,0.70,398.28
+1501822123617790.png,yolo11m,14,car;car;traffic light;car;traffic light;truck;traffic light;traffic light;traffic light;car;traffic light;car;car;traffic light,0.71,574.46
+1501822123617790.png,yolov5m,14,car;truck;car;traffic light;car;traffic light;traffic light;traffic light;car;car;traffic light;traffic light;traffic light;train,0.74,372.26
+1501822123786859.png,yolo11m,15,car;truck;car;car;traffic light;traffic light;traffic light;car;traffic light;traffic light;traffic light;car;traffic light;car;car,0.67,536.42
+1501822123786859.png,yolov5m,14,car;truck;car;traffic light;traffic light;traffic light;traffic light;traffic light;car;traffic light;traffic light;car;car;car,0.72,399.97
+1501822123955932.png,yolo11m,14,car;car;traffic light;truck;traffic light;car;car;traffic light;traffic light;traffic light;car;traffic light;traffic light;car,0.68,684.11
+1501822123955932.png,yolov5m,18,car;truck;traffic light;car;traffic light;traffic light;car;car;traffic light;traffic light;traffic light;car;car;train;traffic light;traffic light;car;traffic light,0.64,405.38
+1501822124125010.png,yolo11m,15,car;car;truck;traffic light;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;car;car;traffic light;car,0.70,505.06
+1501822124125010.png,yolov5m,16,car;truck;traffic light;traffic light;traffic light;traffic light;traffic light;car;traffic light;car;car;car;car;car;train;traffic light,0.65,428.01
+1501822124293949.png,yolo11m,13,car;truck;car;traffic light;car;traffic light;traffic light;traffic light;traffic light;traffic light;car;car;traffic light,0.71,570.27
+1501822124293949.png,yolov5m,14,car;truck;traffic light;car;traffic light;traffic light;traffic light;traffic light;car;car;traffic light;car;train;car,0.71,376.10
+1501822124463031.png,yolo11m,13,car;car;traffic light;traffic light;car;traffic light;traffic light;car;traffic light;truck;traffic light;car;traffic light,0.72,542.64
+1501822124463031.png,yolov5m,15,car;truck;traffic light;traffic light;car;traffic light;car;traffic light;traffic light;traffic light;car;car;traffic light;train;traffic light,0.71,407.29
+1501822124971206.png,yolo11m,14,car;car;traffic light;traffic light;traffic light;car;traffic light;traffic light;truck;traffic light;car;car;car;traffic light,0.66,545.57
+1501822124971206.png,yolov5m,15,car;car;traffic light;traffic light;truck;traffic light;traffic light;car;traffic light;traffic light;car;car;train;traffic light;car,0.66,415.51
+1501822125140259.png,yolo11m,13,car;car;car;traffic light;traffic light;traffic light;traffic light;truck;traffic light;car;traffic light;traffic light;car,0.72,543.68
+1501822125140259.png,yolov5m,16,car;car;truck;traffic light;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;car;car;traffic light;car;train,0.65,373.18
+1501822125309337.png,yolo11m,15,car;car;traffic light;traffic light;traffic light;traffic light;traffic light;car;car;traffic light;car;truck;traffic light;car;car,0.68,527.34
+1501822125309337.png,yolov5m,16,car;car;traffic light;car;traffic light;traffic light;traffic light;traffic light;truck;car;car;traffic light;car;train;traffic light;car,0.67,418.52
+1501822125478393.png,yolo11m,15,car;car;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;traffic light;truck;car;car;car;traffic light,0.64,910.23
+1501822125478393.png,yolov5m,15,car;car;car;traffic light;traffic light;traffic light;traffic light;traffic light;truck;traffic light;car;car;train;car;car,0.67,369.53
+1501822125648508.png,yolo11m,16,car;car;car;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;car;car;truck;car;car;car,0.66,486.24
+1501822125648508.png,yolov5m,17,car;car;car;traffic light;traffic light;traffic light;truck;traffic light;traffic light;traffic light;car;car;train;truck;traffic light;car;traffic light,0.64,365.44
+1501822125817540.png,yolo11m,14,car;car;car;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;truck;traffic light;car;car;car,0.74,490.55
+1501822125817540.png,yolov5m,17,car;car;car;traffic light;traffic light;traffic light;traffic light;truck;traffic light;car;car;truck;train;traffic light;car;car;traffic light,0.64,397.97
+1501822125986613.png,yolo11m,17,car;car;traffic light;traffic light;traffic light;car;traffic light;traffic light;traffic light;car;truck;truck;car;traffic light;car;car;car,0.63,542.37
+1501822125986613.png,yolov5m,16,car;traffic light;car;traffic light;car;traffic light;traffic light;traffic light;truck;car;car;truck;traffic light;traffic light;train;car,0.66,412.20
+1501822126155725.png,yolo11m,17,car;car;traffic light;traffic light;truck;traffic light;traffic light;traffic light;traffic light;truck;traffic light;car;car;car;car;car;car,0.61,487.58
+1501822126155725.png,yolov5m,12,car;car;traffic light;traffic light;traffic light;traffic light;truck;traffic light;traffic light;truck;car;traffic light,0.73,390.66
+1501822126324811.png,yolo11m,15,car;car;traffic light;traffic light;traffic light;traffic light;traffic light;truck;car;traffic light;car;car;traffic light;truck;car,0.65,512.59
+1501822126324811.png,yolov5m,13,car;car;traffic light;traffic light;truck;traffic light;traffic light;traffic light;traffic light;truck;car;traffic light;train,0.71,378.76
+1501822126493843.png,yolo11m,15,car;car;traffic light;traffic light;traffic light;car;traffic light;truck;traffic light;traffic light;car;traffic light;car;truck;car,0.67,562.56
+1501822126493843.png,yolov5m,13,car;car;traffic light;traffic light;traffic light;traffic light;traffic light;car;truck;traffic light;traffic light;car;truck,0.71,382.08
+1501822126663941.png,yolo11m,18,car;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;traffic light;car;truck;traffic light;train;car;truck;car;car;car,0.64,596.59
+1501822126663941.png,yolov5m,16,car;traffic light;traffic light;traffic light;car;traffic light;truck;traffic light;car;car;traffic light;car;traffic light;car;traffic light;train,0.67,388.45
+1501822127002016.png,yolo11m,16,car;car;truck;traffic light;traffic light;traffic light;traffic light;truck;traffic light;truck;traffic light;car;car;car;traffic light;train,0.59,502.17
+1501822127002016.png,yolov5m,16,car;car;truck;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;car;truck;car;truck;traffic light;train;traffic light,0.65,411.95
+1501822127171047.png,yolo11m,18,car;car;truck;traffic light;traffic light;traffic light;traffic light;traffic light;truck;car;car;truck;traffic light;car;truck;traffic light;car;traffic light,0.60,512.27
+1501822127171047.png,yolov5m,17,traffic light;car;traffic light;car;traffic light;truck;traffic light;traffic light;traffic light;truck;truck;car;car;traffic light;truck;car;traffic light,0.63,383.35
+1501822127341133.png,yolo11m,14,car;car;traffic light;traffic light;traffic light;traffic light;truck;traffic light;car;car;car;truck;truck;traffic light,0.68,552.22
+1501822127341133.png,yolov5m,17,traffic light;traffic light;car;car;car;traffic light;traffic light;traffic light;truck;truck;traffic light;car;traffic light;truck;car;car;traffic light,0.64,412.68
+1501822127509205.png,yolo11m,15,car;car;traffic light;traffic light;car;traffic light;traffic light;car;traffic light;traffic light;truck;truck;car;car;traffic light,0.66,516.12
+1501822127509205.png,yolov5m,17,traffic light;car;traffic light;car;car;traffic light;traffic light;truck;car;traffic light;truck;traffic light;car;traffic light;car;traffic light;truck,0.64,429.38
+1501822127680260.png,yolo11m,16,car;car;traffic light;traffic light;traffic light;traffic light;traffic light;car;truck;car;traffic light;truck;car;truck;car;traffic light,0.65,760.63
+1501822127680260.png,yolov5m,15,car;traffic light;car;car;traffic light;car;traffic light;traffic light;traffic light;traffic light;truck;car;truck;car;car,0.68,557.72
+1501822127849331.png,yolo11m,17,car;car;traffic light;traffic light;traffic light;traffic light;car;car;traffic light;traffic light;truck;truck;truck;train;traffic light;car;car,0.67,610.61
+1501822127849331.png,yolov5m,16,traffic light;car;car;traffic light;car;car;traffic light;traffic light;car;truck;traffic light;traffic light;car;truck;car;traffic light,0.67,526.18
+1501822128017374.png,yolo11m,17,car;car;traffic light;traffic light;traffic light;traffic light;traffic light;truck;car;car;traffic light;truck;truck;traffic light;truck;car;car,0.63,527.55
+1501822128017374.png,yolov5m,16,traffic light;car;car;car;traffic light;traffic light;car;traffic light;traffic light;truck;truck;car;truck;traffic light;car;car,0.66,408.52
+1501822128187563.png,yolo11m,14,truck;car;car;traffic light;traffic light;car;traffic light;traffic light;car;traffic light;traffic light;traffic light;truck;car,0.70,532.02
+1501822128187563.png,yolov5m,15,traffic light;car;car;traffic light;traffic light;car;traffic light;car;traffic light;truck;car;traffic light;truck;traffic light;train,0.66,360.94
+1501822128356621.png,yolo11m,15,truck;car;car;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;traffic light;traffic light;car;car;train,0.71,494.57
+1501822128356621.png,yolov5m,17,car;car;traffic light;traffic light;car;traffic light;car;traffic light;traffic light;car;truck;car;traffic light;traffic light;car;traffic light;train,0.65,512.93
+1501822128525128.png,yolo11m,16,car;truck;car;traffic light;traffic light;traffic light;car;traffic light;car;traffic light;traffic light;car;train;person;traffic light;car,0.71,1486.79
+1501822128525128.png,yolov5m,15,car;car;car;traffic light;traffic light;truck;traffic light;traffic light;car;car;traffic light;traffic light;traffic light;train;traffic light,0.70,668.88
+1501822128695741.png,yolo11m,15,car;truck;traffic light;car;car;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;car;car;car;car,0.67,580.99
+1501822128695741.png,yolov5m,15,car;car;car;traffic light;traffic light;truck;traffic light;traffic light;traffic light;traffic light;traffic light;car;car;car;truck,0.72,379.21
+1501822128864795.png,yolo11m,15,car;car;car;traffic light;traffic light;traffic light;traffic light;traffic light;truck;car;train;traffic light;traffic light;truck;traffic light,0.66,1668.44
+1501822128864795.png,yolov5m,15,car;traffic light;car;traffic light;car;traffic light;truck;traffic light;traffic light;traffic light;car;car;traffic light;car;train,0.70,788.37
+1501822129033648.png,yolo11m,14,truck;car;car;traffic light;car;traffic light;traffic light;car;traffic light;traffic light;car;traffic light;traffic light;truck,0.65,1103.11
+1501822129033648.png,yolov5m,17,traffic light;car;traffic light;truck;car;car;traffic light;traffic light;traffic light;car;car;traffic light;car;truck;train;traffic light;traffic light,0.62,468.83
+1501822129202878.png,yolo11m,15,truck;car;car;traffic light;traffic light;traffic light;car;car;traffic light;traffic light;traffic light;traffic light;truck;car;train,0.67,801.15
+1501822129202878.png,yolov5m,14,truck;traffic light;car;car;traffic light;car;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;train,0.75,576.84
+1501822129371918.png,yolo11m,16,truck;car;car;traffic light;traffic light;car;traffic light;traffic light;train;traffic light;traffic light;truck;car;traffic light;truck;car,0.64,715.97
+1501822129371918.png,yolov5m,14,truck;car;traffic light;car;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;car;traffic light;car,0.70,489.56
+1501822129540999.png,yolo11m,13,truck;car;car;traffic light;traffic light;traffic light;car;traffic light;traffic light;car;traffic light;traffic light;truck,0.70,798.61
+1501822129540999.png,yolov5m,15,truck;car;traffic light;traffic light;traffic light;car;car;traffic light;traffic light;car;traffic light;traffic light;traffic light;car;car,0.68,437.13
+1501822129711090.png,yolo11m,15,truck;car;traffic light;traffic light;car;traffic light;car;traffic light;car;traffic light;traffic light;car;traffic light;truck;train,0.68,510.75
+1501822129711090.png,yolov5m,16,truck;car;traffic light;car;car;traffic light;traffic light;traffic light;traffic light;traffic light;car;truck;car;car;traffic light;car,0.66,678.17
+1501822129880118.png,yolo11m,16,truck;car;traffic light;car;traffic light;traffic light;car;traffic light;traffic light;traffic light;car;truck;traffic light;truck;train;car,0.66,914.40
+1501822129880118.png,yolov5m,15,truck;traffic light;traffic light;car;car;car;traffic light;traffic light;traffic light;truck;car;traffic light;traffic light;car;car,0.68,433.93
+1501822130049172.png,yolo11m,15,truck;car;traffic light;traffic light;traffic light;car;car;traffic light;traffic light;traffic light;traffic light;car;car;car;truck,0.71,514.89
+1501822130049172.png,yolov5m,14,traffic light;car;traffic light;car;car;truck;traffic light;traffic light;traffic light;traffic light;car;traffic light;car;car,0.72,408.40
+1501822130218189.png,yolo11m,18,truck;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;traffic light;car;car;traffic light;truck;truck;car;car;fire hydrant;traffic light,0.61,609.48
+1501822130218189.png,yolov5m,16,truck;traffic light;traffic light;car;traffic light;traffic light;traffic light;car;car;car;traffic light;traffic light;car;truck;car;car,0.66,380.40
+1501822130387271.png,yolo11m,15,truck;car;traffic light;traffic light;traffic light;car;car;traffic light;traffic light;traffic light;traffic light;car;car;car;fire hydrant,0.70,538.00
+1501822130387271.png,yolov5m,17,truck;traffic light;traffic light;car;car;traffic light;traffic light;traffic light;car;traffic light;car;traffic light;car;car;truck;traffic light;fire hydrant,0.65,409.05
+1501822130556319.png,yolo11m,15,truck;car;traffic light;car;traffic light;traffic light;car;traffic light;traffic light;car;traffic light;traffic light;car;truck;traffic light,0.70,529.39
+1501822130556319.png,yolov5m,17,truck;traffic light;traffic light;car;traffic light;car;car;traffic light;traffic light;car;traffic light;traffic light;truck;truck;car;traffic light;train,0.66,435.66
+1501822130726368.png,yolo11m,13,truck;car;car;car;traffic light;car;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;car,0.76,522.87
+1501822130726368.png,yolov5m,16,traffic light;traffic light;car;car;car;truck;traffic light;car;traffic light;traffic light;traffic light;traffic light;train;truck;car;traffic light,0.70,512.58
+1501822131064515.png,yolo11m,14,truck;car;car;car;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;car;traffic light;car,0.68,497.75
+1501822131064515.png,yolov5m,16,truck;traffic light;car;traffic light;car;traffic light;traffic light;traffic light;car;train;traffic light;car;traffic light;car;traffic light;traffic light,0.70,355.24
+1501822131233637.png,yolo11m,15,truck;car;car;traffic light;car;traffic light;traffic light;traffic light;traffic light;traffic light;truck;traffic light;truck;traffic light;traffic light,0.66,533.25
+1501822131233637.png,yolov5m,18,car;traffic light;truck;traffic light;car;car;traffic light;traffic light;traffic light;traffic light;traffic light;truck;train;car;traffic light;car;truck;traffic light,0.64,368.57
+1501822131402686.png,yolo11m,14,truck;car;traffic light;traffic light;car;traffic light;traffic light;traffic light;truck;traffic light;traffic light;train;car;fire hydrant,0.70,562.93
+1501822131402686.png,yolov5m,14,car;truck;traffic light;traffic light;truck;traffic light;traffic light;car;traffic light;traffic light;train;car;traffic light;traffic light,0.72,401.26
+1501822131571764.png,yolo11m,15,truck;traffic light;car;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;bus;car;truck;traffic light;train,0.66,465.24
+1501822131571764.png,yolov5m,15,traffic light;truck;car;car;traffic light;traffic light;traffic light;traffic light;truck;car;traffic light;traffic light;car;train;truck,0.70,380.19
+1501822131910887.png,yolo11m,15,truck;car;traffic light;traffic light;bus;traffic light;car;traffic light;traffic light;car;train;car;traffic light;person;traffic light,0.67,529.21
+1501822131910887.png,yolov5m,18,truck;traffic light;traffic light;car;car;traffic light;truck;traffic light;traffic light;car;car;traffic light;truck;car;train;traffic light;traffic light;traffic light,0.66,390.43
+1501822132249102.png,yolo11m,17,car;truck;car;traffic light;traffic light;car;traffic light;traffic light;traffic light;car;bus;car;car;traffic light;train;traffic light;car,0.70,491.70
+1501822132249102.png,yolov5m,19,traffic light;car;traffic light;car;truck;car;car;traffic light;traffic light;traffic light;train;traffic light;car;car;traffic light;traffic light;car;bus;truck,0.71,422.60
+1501822132418165.png,yolo11m,16,car;truck;car;car;car;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;car;car;traffic light;car;car,0.71,548.00
+1501822132418165.png,yolov5m,17,car;car;car;car;traffic light;traffic light;traffic light;truck;car;traffic light;traffic light;traffic light;car;car;car;train;traffic light,0.74,531.48
+1501822132588249.png,yolo11m,16,car;truck;traffic light;traffic light;car;traffic light;traffic light;traffic light;car;traffic light;car;car;car;bus;traffic light;car,0.67,511.53
+1501822132588249.png,yolov5m,17,car;traffic light;truck;traffic light;car;car;traffic light;traffic light;traffic light;traffic light;car;car;car;traffic light;train;car;truck,0.67,380.03
+1501822133096419.png,yolo11m,14,car;truck;traffic light;car;traffic light;traffic light;traffic light;traffic light;car;car;traffic light;traffic light;car;truck,0.69,560.31
+1501822133096419.png,yolov5m,14,car;car;traffic light;traffic light;car;car;traffic light;truck;traffic light;traffic light;traffic light;traffic light;car;traffic light,0.72,420.78
+1501822133264433.png,yolo11m,14,car;traffic light;traffic light;truck;car;car;traffic light;traffic light;traffic light;car;car;traffic light;traffic light;traffic light,0.69,565.41
+1501822133264433.png,yolov5m,13,car;traffic light;traffic light;truck;car;car;traffic light;car;traffic light;traffic light;traffic light;traffic light;car,0.74,447.43
+1501822133434517.png,yolo11m,12,car;traffic light;traffic light;truck;traffic light;car;traffic light;traffic light;car;traffic light;traffic light;traffic light,0.74,505.90
+1501822133434517.png,yolov5m,15,car;traffic light;traffic light;truck;traffic light;traffic light;car;car;traffic light;traffic light;traffic light;car;traffic light;car;person,0.71,379.20
+1501822133603593.png,yolo11m,14,car;truck;traffic light;traffic light;traffic light;car;traffic light;car;traffic light;car;traffic light;car;traffic light;traffic light,0.68,524.00
+1501822133603593.png,yolov5m,14,car;traffic light;traffic light;car;truck;traffic light;car;traffic light;traffic light;car;traffic light;traffic light;traffic light;car,0.72,444.63
+1501822133772681.png,yolo11m,15,car;truck;traffic light;traffic light;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;truck;car;car;traffic light,0.70,593.82
+1501822133772681.png,yolov5m,13,car;traffic light;traffic light;car;traffic light;traffic light;car;traffic light;truck;traffic light;car;traffic light;traffic light,0.75,373.50
+1501822133942710.png,yolo11m,15,car;traffic light;traffic light;truck;traffic light;traffic light;traffic light;traffic light;car;car;traffic light;car;truck;traffic light;car,0.66,613.73
+1501822133942710.png,yolov5m,14,car;traffic light;traffic light;traffic light;car;traffic light;traffic light;truck;car;traffic light;traffic light;car;traffic light;traffic light,0.70,434.94
+1501822134111788.png,yolo11m,14,car;traffic light;traffic light;car;truck;car;traffic light;car;traffic light;traffic light;traffic light;traffic light;truck;traffic light,0.74,542.00
+1501822134111788.png,yolov5m,13,car;traffic light;traffic light;car;car;traffic light;traffic light;car;traffic light;truck;traffic light;traffic light;traffic light,0.76,400.27
+1501822134280222.png,yolo11m,14,car;traffic light;traffic light;car;truck;traffic light;traffic light;car;traffic light;car;traffic light;traffic light;traffic light;truck,0.72,539.77
+1501822134280222.png,yolov5m,14,car;traffic light;traffic light;car;traffic light;truck;traffic light;car;traffic light;traffic light;traffic light;car;truck;traffic light,0.72,439.42
+1501822134619015.png,yolo11m,18,car;traffic light;traffic light;car;traffic light;traffic light;traffic light;car;truck;truck;car;traffic light;traffic light;traffic light;traffic light;traffic light;car;traffic light,0.60,535.26
+1501822134619015.png,yolov5m,14,car;traffic light;traffic light;traffic light;traffic light;car;car;traffic light;car;truck;traffic light;car;traffic light;car,0.69,382.28
+1501822134788724.png,yolo11m,16,car;traffic light;traffic light;traffic light;traffic light;car;truck;car;truck;traffic light;traffic light;truck;car;traffic light;car;traffic light,0.59,604.50
+1501822134788724.png,yolov5m,12,car;traffic light;traffic light;traffic light;traffic light;car;car;traffic light;truck;truck;traffic light;car,0.72,414.55
+1501822134958093.png,yolo11m,15,car;traffic light;traffic light;traffic light;car;traffic light;car;car;traffic light;traffic light;car;truck;traffic light;traffic light;traffic light,0.61,541.13
+1501822134958093.png,yolov5m,13,car;traffic light;car;traffic light;traffic light;car;traffic light;traffic light;car;car;traffic light;car;traffic light,0.71,420.37
+1501822135127161.png,yolo11m,15,car;traffic light;traffic light;traffic light;traffic light;car;car;traffic light;traffic light;car;traffic light;chair;truck;potted plant;truck,0.60,519.43
+1501822135127161.png,yolov5m,12,car;traffic light;traffic light;car;traffic light;car;traffic light;traffic light;truck;traffic light;car;traffic light,0.69,512.92
+1501822135296182.png,yolo11m,15,car;traffic light;traffic light;traffic light;car;traffic light;car;traffic light;car;traffic light;traffic light;truck;car;traffic light;car,0.62,502.03
+1501822135296182.png,yolov5m,16,car;car;traffic light;traffic light;car;traffic light;traffic light;car;truck;traffic light;traffic light;traffic light;car;traffic light;traffic light;truck,0.63,377.03
+1501822135465283.png,yolo11m,14,car;traffic light;car;traffic light;traffic light;car;traffic light;traffic light;car;traffic light;car;traffic light;truck;truck,0.68,546.96
+1501822135465283.png,yolov5m,17,car;car;traffic light;traffic light;traffic light;traffic light;car;car;traffic light;car;traffic light;truck;traffic light;truck;car;traffic light;car,0.66,420.20
+1501822135634331.png,yolo11m,14,car;traffic light;car;traffic light;traffic light;traffic light;traffic light;car;truck;traffic light;truck;car;traffic light;car,0.68,509.24
+1501822135634331.png,yolov5m,16,car;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;car;traffic light;truck;car;car;traffic light;truck;traffic light,0.67,397.03
+1501822135804404.png,yolo11m,15,car;traffic light;car;traffic light;traffic light;traffic light;traffic light;car;truck;truck;traffic light;traffic light;truck;traffic light;traffic light,0.68,584.70
+1501822135804404.png,yolov5m,16,car;car;traffic light;traffic light;traffic light;traffic light;traffic light;car;car;car;traffic light;truck;traffic light;truck;car;traffic light,0.66,394.86
+1501822135973479.png,yolo11m,15,car;traffic light;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;car;traffic light;truck;car;truck;traffic light,0.69,1083.43
+1501822135973479.png,yolov5m,15,car;car;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;car;car;truck;car;truck;car;traffic light,0.73,442.17
+1501822136142535.png,yolo11m,15,car;traffic light;car;traffic light;car;traffic light;traffic light;traffic light;car;traffic light;truck;truck;car;traffic light;car,0.74,496.54
+1501822136142535.png,yolov5m,16,car;car;traffic light;traffic light;car;traffic light;car;traffic light;car;traffic light;traffic light;car;truck;car;truck;traffic light,0.77,365.30
+1501822136311652.png,yolo11m,17,car;car;traffic light;car;traffic light;traffic light;traffic light;traffic light;traffic light;truck;car;car;truck;traffic light;car;car;truck,0.71,571.18
+1501822136311652.png,yolov5m,16,car;traffic light;car;traffic light;car;traffic light;traffic light;traffic light;car;truck;car;car;car;traffic light;traffic light;traffic light,0.73,381.78
+1501822136649783.png,yolo11m,17,car;car;traffic light;traffic light;traffic light;traffic light;traffic light;car;car;truck;car;truck;truck;car;car;traffic light;car,0.65,506.08
+1501822136649783.png,yolov5m,15,car;traffic light;traffic light;car;traffic light;traffic light;car;traffic light;car;car;car;truck;car;traffic light;car,0.73,390.30
+1501822136819828.png,yolo11m,17,car;traffic light;traffic light;traffic light;traffic light;traffic light;car;car;car;truck;truck;car;car;truck;car;traffic light;car,0.65,524.80
+1501822136819828.png,yolov5m,17,car;traffic light;traffic light;traffic light;car;car;traffic light;car;car;car;truck;car;car;truck;traffic light;traffic light;car,0.69,461.33
+1501822137157894.png,yolo11m,18,car;traffic light;car;traffic light;traffic light;car;traffic light;car;car;car;traffic light;car;car;car;traffic light;truck;truck;traffic light,0.66,537.56
+1501822137157894.png,yolov5m,16,car;traffic light;traffic light;traffic light;car;car;traffic light;car;car;car;car;traffic light;truck;car;car;traffic light,0.72,366.70
+1501822137326963.png,yolo11m,15,car;traffic light;car;traffic light;traffic light;car;car;car;car;traffic light;car;car;truck;car;traffic light,0.72,533.53
+1501822137326963.png,yolov5m,18,car;traffic light;car;car;traffic light;traffic light;car;car;car;car;car;traffic light;car;truck;car;traffic light;traffic light;car,0.65,370.66
+1501822137496077.png,yolo11m,17,car;car;traffic light;traffic light;traffic light;car;car;car;car;traffic light;car;traffic light;car;car;truck;truck;traffic light,0.67,497.47
+1501822137496077.png,yolov5m,15,car;traffic light;traffic light;traffic light;car;car;car;car;car;car;car;car;traffic light;traffic light;traffic light,0.75,393.67
+1501822137665092.png,yolo11m,14,car;car;traffic light;car;traffic light;traffic light;car;car;car;car;car;traffic light;traffic light;car,0.73,525.25
+1501822137665092.png,yolov5m,14,traffic light;traffic light;traffic light;car;car;car;car;car;car;car;car;car;traffic light;traffic light,0.76,525.51
+1501822137835178.png,yolo11m,13,car;car;traffic light;car;traffic light;traffic light;car;car;car;car;car;car;truck,0.74,562.37
+1501822137835178.png,yolov5m,13,car;car;traffic light;traffic light;car;traffic light;car;car;car;car;car;car;traffic light,0.78,378.91
+1501822138004221.png,yolo11m,11,car;car;car;traffic light;traffic light;car;traffic light;car;car;car;truck,0.77,568.78
+1501822138004221.png,yolov5m,13,car;car;traffic light;car;traffic light;car;car;car;car;traffic light;car;car;traffic light,0.75,365.50
+1501822138173362.png,yolo11m,13,car;car;car;traffic light;traffic light;traffic light;car;car;car;car;car;truck;traffic light,0.70,548.18
+1501822138173362.png,yolov5m,14,car;car;car;traffic light;traffic light;traffic light;car;car;car;car;car;car;traffic light;traffic light,0.70,391.21
+1501822138342431.png,yolo11m,11,car;car;car;traffic light;traffic light;traffic light;car;car;car;car;car,0.78,507.86
+1501822138342431.png,yolov5m,13,car;car;traffic light;traffic light;traffic light;car;car;car;car;car;traffic light;traffic light;car,0.71,388.89
+1501822138680582.png,yolo11m,14,car;car;car;traffic light;traffic light;traffic light;car;car;car;truck;car;car;car;traffic light,0.71,521.00
+1501822138680582.png,yolov5m,14,car;car;traffic light;traffic light;traffic light;car;car;car;car;car;car;traffic light;traffic light;car,0.71,462.95
+1501822138851641.png,yolo11m,13,car;car;car;traffic light;traffic light;traffic light;car;car;car;car;car;car;traffic light,0.71,537.30
+1501822138851641.png,yolov5m,16,car;traffic light;car;traffic light;traffic light;car;car;car;car;car;car;car;traffic light;traffic light;car;traffic light,0.68,378.12
+1501822139019714.png,yolo11m,11,car;car;traffic light;traffic light;traffic light;car;car;car;car;truck;car,0.73,525.77
+1501822139019714.png,yolov5m,13,car;car;traffic light;traffic light;traffic light;car;car;car;car;car;traffic light;traffic light;car,0.70,551.71
+1501822139358774.png,yolo11m,11,traffic light;traffic light;car;traffic light;car;car;car;car;car;truck;truck,0.74,498.15
+1501822139358774.png,yolov5m,13,car;traffic light;traffic light;traffic light;car;car;car;car;car;truck;car;traffic light;traffic light,0.71,396.96
+1501822139527730.png,yolo11m,13,car;traffic light;traffic light;traffic light;car;car;car;car;truck;car;car;traffic light;traffic light,0.65,575.88
+1501822139527730.png,yolov5m,12,traffic light;car;traffic light;traffic light;car;car;car;car;car;truck;traffic light;car,0.76,415.01
+1501822139696877.png,yolo11m,11,traffic light;car;traffic light;car;traffic light;car;car;car;car;truck;traffic light,0.72,522.02
+1501822139696877.png,yolov5m,15,car;car;traffic light;traffic light;car;traffic light;car;truck;car;car;car;traffic light;traffic light;traffic light;traffic light,0.65,374.41
+1501822139866926.png,yolo11m,13,traffic light;traffic light;car;traffic light;car;car;car;car;car;truck;truck;car;truck,0.67,507.45
+1501822139866926.png,yolov5m,14,traffic light;car;car;traffic light;car;traffic light;car;car;truck;truck;car;traffic light;traffic light;traffic light,0.67,383.88
+1501822140036077.png,yolo11m,11,traffic light;traffic light;car;traffic light;car;car;truck;car;car;car;truck,0.70,569.08
+1501822140036077.png,yolov5m,13,traffic light;traffic light;car;car;traffic light;car;car;truck;car;car;traffic light;traffic light;traffic light,0.71,400.78
+1501822140205116.png,yolo11m,14,car;car;traffic light;traffic light;car;traffic light;car;car;car;car;traffic light;person;car;car,0.64,503.19
+1501822140205116.png,yolov5m,16,car;traffic light;car;car;traffic light;traffic light;car;car;truck;car;traffic light;traffic light;traffic light;traffic light;car;traffic light,0.61,374.58
+1501822140373185.png,yolo11m,12,car;car;car;car;truck;car;car;car;traffic light;car;car;traffic light,0.64,504.28
+1501822140373185.png,yolov5m,19,car;car;car;car;truck;car;car;car;traffic light;traffic light;traffic light;truck;traffic light;car;car;traffic light;truck;traffic light;traffic light,0.52,587.05
+1501822140542536.png,yolo11m,11,car;car;car;car;car;car;car;car;traffic light;car;traffic light,0.60,519.74
+1501822140542536.png,yolov5m,13,car;car;car;car;car;car;truck;car;traffic light;traffic light;traffic light;traffic light;traffic light,0.62,448.65
+1501822140711341.png,yolo11m,10,car;car;car;car;car;car;truck;truck;traffic light;car,0.62,518.28
+1501822140711341.png,yolov5m,13,car;car;car;truck;car;car;car;traffic light;traffic light;car;traffic light;traffic light;car,0.59,397.58
+1501822140881381.png,yolo11m,11,car;car;car;car;car;truck;car;truck;car;traffic light;car,0.59,549.51
+1501822140881381.png,yolov5m,12,car;car;car;car;truck;car;car;traffic light;car;traffic light;traffic light;car,0.62,383.04
+1501822141050964.png,yolo11m,9,car;car;truck;car;car;car;car;truck;car,0.66,510.73
+1501822141050964.png,yolov5m,12,car;car;car;car;truck;car;car;car;traffic light;car;car;traffic light,0.67,386.14
+1501822141219524.png,yolo11m,11,car;truck;car;car;car;car;car;truck;traffic light;car;traffic light,0.65,583.99
+1501822141219524.png,yolov5m,15,car;car;car;car;car;truck;car;truck;traffic light;car;traffic light;car;car;traffic light;car,0.57,437.60
+1501822141389579.png,yolo11m,12,car;truck;car;car;car;car;traffic light;car;car;truck;car;traffic light,0.60,528.88
+1501822141389579.png,yolov5m,13,car;car;car;truck;car;car;car;car;traffic light;traffic light;traffic light;car;car,0.59,375.25
+1501822141726695.png,yolo11m,11,car;car;car;car;car;car;car;car;car;truck;car,0.58,519.34
+1501822141726695.png,yolov5m,14,car;car;car;car;car;car;car;traffic light;car;traffic light;car;traffic light;car;traffic light,0.61,379.65
+1501822141897754.png,yolo11m,11,car;car;car;car;car;car;car;car;car;car;car,0.65,564.65
+1501822141897754.png,yolov5m,15,car;car;car;car;car;car;car;traffic light;traffic light;traffic light;car;car;car;car;car,0.54,404.33
+1501822142066739.png,yolo11m,12,car;car;car;car;car;car;car;car;car;traffic light;car;car,0.65,491.95
+1501822142066739.png,yolov5m,17,car;car;car;car;car;car;car;car;truck;traffic light;traffic light;car;car;car;car;traffic light;traffic light,0.58,371.23
+1501822142235914.png,yolo11m,13,car;car;car;car;car;car;car;car;traffic light;car;car;traffic light;car,0.58,505.96
+1501822142235914.png,yolov5m,16,car;car;car;car;car;car;car;truck;car;traffic light;traffic light;traffic light;car;car;traffic light;car,0.58,396.09
+1501822142404956.png,yolo11m,11,car;car;car;car;car;car;car;car;car;car;car,0.70,528.95
+1501822142404956.png,yolov5m,18,car;car;car;car;car;car;car;truck;car;traffic light;car;traffic light;traffic light;traffic light;car;car;car;car,0.59,395.01
+1501822142574090.png,yolo11m,8,car;car;car;car;car;car;car;car,0.77,546.63
+1501822142574090.png,yolov5m,16,car;car;car;car;car;car;car;car;truck;car;traffic light;traffic light;traffic light;traffic light;car;car,0.57,459.09
+1501822142743131.png,yolo11m,15,car;car;car;car;car;car;car;truck;traffic light;car;car;car;traffic light;traffic light;car,0.53,581.16
+1501822142743131.png,yolov5m,13,car;car;car;car;car;car;car;car;traffic light;traffic light;traffic light;traffic light;car,0.64,367.40
+1501822143082263.png,yolo11m,11,car;car;car;car;car;car;traffic light;car;car;car;car,0.59,474.83
+1501822143082263.png,yolov5m,16,car;car;car;car;car;car;car;car;traffic light;truck;traffic light;car;traffic light;car;traffic light;car,0.58,389.58
+1501822143251259.png,yolo11m,11,car;car;car;car;car;car;car;car;car;car;traffic light,0.59,533.62
+1501822143251259.png,yolov5m,14,car;car;car;car;car;car;car;truck;car;traffic light;car;traffic light;car;traffic light,0.61,527.87
+1501822143420331.png,yolo11m,12,car;car;car;car;car;car;car;traffic light;car;car;traffic light;traffic light,0.61,516.11
+1501822143420331.png,yolov5m,15,car;car;car;car;car;car;car;car;car;traffic light;truck;traffic light;traffic light;car;traffic light,0.60,394.31
+1501822143589414.png,yolo11m,11,car;car;car;car;car;car;car;car;car;traffic light;traffic light,0.64,513.61
+1501822143589414.png,yolov5m,14,car;car;car;car;car;car;car;car;car;traffic light;traffic light;traffic light;traffic light;traffic light,0.66,381.66
+1501822143758487.png,yolo11m,12,car;car;car;car;car;car;car;traffic light;traffic light;traffic light;car;car,0.60,568.26
+1501822143758487.png,yolov5m,13,car;car;car;car;car;car;truck;car;traffic light;car;traffic light;traffic light;car,0.63,377.91
+1501822143928532.png,yolo11m,13,car;car;car;car;car;car;traffic light;car;car;car;traffic light;traffic light;traffic light,0.62,534.76
+1501822143928532.png,yolov5m,14,car;car;car;car;car;car;truck;car;traffic light;car;car;traffic light;traffic light;traffic light,0.62,400.23
+1501822144097584.png,yolo11m,10,car;car;car;car;car;car;car;car;traffic light;traffic light,0.68,520.46
+1501822144097584.png,yolov5m,12,car;car;car;car;car;car;car;traffic light;car;traffic light;traffic light;car,0.68,415.42
+1501822144266714.png,yolo11m,11,car;car;car;car;car;car;car;car;traffic light;traffic light;traffic light,0.63,527.36
+1501822144266714.png,yolov5m,13,car;car;car;car;car;traffic light;car;truck;car;car;traffic light;traffic light;traffic light,0.64,375.09
+1501822144435763.png,yolo11m,12,car;car;car;car;car;car;traffic light;car;truck;traffic light;car;traffic light,0.57,601.52
+1501822144435763.png,yolov5m,14,car;car;car;car;car;car;traffic light;traffic light;traffic light;car;car;truck;traffic light;traffic light,0.65,421.61
+1501822144604820.png,yolo11m,13,car;car;car;car;car;car;traffic light;traffic light;traffic light;car;car;traffic light;traffic light,0.57,523.19
+1501822144604820.png,yolov5m,13,car;car;car;car;car;car;traffic light;traffic light;traffic light;traffic light;car;car;car,0.65,371.91
+1501822144773903.png,yolo11m,12,car;car;car;traffic light;car;car;car;traffic light;car;traffic light;car;traffic light,0.62,479.68
+1501822144773903.png,yolov5m,14,car;car;car;car;car;car;traffic light;traffic light;truck;car;car;traffic light;traffic light;car,0.63,398.17
+1501822144943938.png,yolo11m,16,car;car;car;car;car;car;traffic light;traffic light;traffic light;car;car;car;car;traffic light;car;traffic light,0.57,524.17
+1501822144943938.png,yolov5m,14,car;car;car;car;car;car;traffic light;traffic light;car;traffic light;car;traffic light;train;car,0.61,402.28
+1501822145112989.png,yolo11m,15,car;car;car;car;car;traffic light;car;traffic light;car;traffic light;car;traffic light;car;car;car,0.61,590.79
+1501822145112989.png,yolov5m,13,car;car;car;car;car;traffic light;car;traffic light;car;traffic light;traffic light;car;car,0.66,489.52
+1501822145282047.png,yolo11m,15,car;car;car;car;car;traffic light;car;car;car;traffic light;traffic light;traffic light;car;traffic light;traffic light,0.57,523.51
+1501822145282047.png,yolov5m,16,car;car;car;traffic light;car;car;traffic light;car;car;traffic light;car;car;truck;traffic light;traffic light;train,0.63,393.18
+1501822145451045.png,yolo11m,14,car;car;car;car;car;car;car;traffic light;car;traffic light;car;traffic light;traffic light;traffic light,0.61,535.86
+1501822145451045.png,yolov5m,15,car;car;car;car;car;traffic light;traffic light;car;car;traffic light;traffic light;car;car;traffic light;car,0.67,356.55
+1501822145620120.png,yolo11m,16,car;car;car;car;car;car;car;car;car;traffic light;traffic light;traffic light;traffic light;car;car;car,0.58,554.89
+1501822145620120.png,yolov5m,19,car;car;car;car;car;car;car;traffic light;traffic light;traffic light;car;car;traffic light;train;car;car;traffic light;car;traffic light,0.61,360.78
+1501822145789184.png,yolo11m,15,car;car;car;car;car;car;car;traffic light;car;traffic light;car;traffic light;car;traffic light;car,0.62,553.31
+1501822145789184.png,yolov5m,17,car;car;car;car;car;car;car;traffic light;car;traffic light;car;traffic light;traffic light;traffic light;car;car;car,0.65,389.93
+1501822145959244.png,yolo11m,14,car;car;car;car;car;traffic light;car;traffic light;car;traffic light;car;car;traffic light;traffic light,0.60,535.30
+1501822145959244.png,yolov5m,14,car;car;car;car;car;car;traffic light;car;traffic light;traffic light;traffic light;traffic light;car;car,0.63,386.73
+1501822146128296.png,yolo11m,15,car;car;car;car;car;traffic light;traffic light;car;truck;car;car;traffic light;car;car;car,0.55,491.24
+1501822146128296.png,yolov5m,19,car;car;car;traffic light;car;car;traffic light;car;traffic light;car;car;traffic light;car;truck;car;car;traffic light;traffic light;train,0.58,394.45
+1501822146297679.png,yolo11m,13,car;car;car;car;car;traffic light;car;car;traffic light;traffic light;car;car;traffic light,0.65,541.99
+1501822146297679.png,yolov5m,18,car;car;traffic light;car;car;car;car;car;traffic light;traffic light;car;truck;traffic light;car;car;car;traffic light;car,0.59,378.01
+1501822146635501.png,yolo11m,15,car;car;car;traffic light;traffic light;car;traffic light;car;car;traffic light;car;car;car;car;car,0.59,508.37
+1501822146635501.png,yolov5m,16,car;car;car;traffic light;car;car;traffic light;traffic light;car;car;traffic light;traffic light;car;car;car;car,0.62,403.89
+1501822146805591.png,yolo11m,15,car;car;car;traffic light;car;traffic light;car;car;traffic light;car;traffic light;car;car;car;car,0.62,514.89
+1501822146805591.png,yolov5m,22,car;car;car;car;traffic light;car;traffic light;car;traffic light;car;traffic light;train;car;traffic light;traffic light;car;car;car;car;car;car;car,0.56,384.38
+1501822147144710.png,yolo11m,14,car;car;car;traffic light;traffic light;car;car;car;car;traffic light;car;traffic light;traffic light;car,0.69,568.37
+1501822147144710.png,yolov5m,18,car;car;car;traffic light;car;car;traffic light;car;car;traffic light;car;traffic light;car;traffic light;car;car;traffic light;car,0.62,422.92
+1501822147313807.png,yolo11m,17,car;car;car;car;car;traffic light;car;traffic light;truck;traffic light;car;traffic light;car;traffic light;car;car;car,0.61,532.16
+1501822147313807.png,yolov5m,19,car;car;car;car;traffic light;traffic light;car;car;car;traffic light;car;traffic light;car;car;traffic light;car;car;traffic light;car,0.62,439.27
+1501822147481872.png,yolo11m,18,car;car;car;traffic light;car;car;car;car;car;traffic light;truck;car;traffic light;traffic light;car;car;car;traffic light,0.62,573.34
+1501822147481872.png,yolov5m,19,car;car;car;car;car;traffic light;car;traffic light;car;car;traffic light;traffic light;car;traffic light;car;traffic light;car;car;truck,0.63,376.05
+1501822147820742.png,yolo11m,21,car;car;car;car;traffic light;car;traffic light;traffic light;car;car;traffic light;truck;car;traffic light;car;traffic light;car;car;car;traffic light;car,0.55,479.76
+1501822147820742.png,yolov5m,21,car;car;traffic light;car;car;car;car;car;truck;traffic light;traffic light;traffic light;car;car;car;traffic light;car;truck;traffic light;car;car,0.61,390.28
+1501822148159150.png,yolo11m,20,car;car;car;car;car;car;traffic light;car;traffic light;traffic light;car;traffic light;car;traffic light;truck;car;traffic light;car;traffic light;car,0.57,537.17
+1501822148159150.png,yolov5m,20,car;car;car;car;car;traffic light;car;traffic light;car;truck;car;car;traffic light;traffic light;car;traffic light;traffic light;traffic light;car;car,0.60,413.25
+1501822148328090.png,yolo11m,20,car;car;car;car;traffic light;car;car;car;car;car;traffic light;traffic light;traffic light;truck;car;car;traffic light;traffic light;car;car,0.60,535.30
+1501822148328090.png,yolov5m,20,car;car;car;traffic light;car;car;car;car;car;car;car;car;traffic light;traffic light;traffic light;traffic light;traffic light;car;traffic light;car,0.60,381.53
+1501822148497135.png,yolo11m,23,car;car;car;car;traffic light;traffic light;traffic light;car;car;car;car;car;car;car;traffic light;truck;traffic light;traffic light;traffic light;car;car;car;car,0.62,604.33
+1501822148497135.png,yolov5m,20,car;car;car;car;traffic light;car;car;traffic light;car;car;traffic light;car;traffic light;car;car;traffic light;traffic light;traffic light;car;car,0.64,386.06
+1501822148666185.png,yolo11m,22,car;car;car;car;car;traffic light;car;car;car;car;traffic light;car;traffic light;car;traffic light;traffic light;traffic light;car;car;truck;car;car,0.62,519.90
+1501822148666185.png,yolov5m,22,car;car;car;car;car;car;traffic light;car;traffic light;car;car;traffic light;car;car;car;car;traffic light;traffic light;traffic light;traffic light;truck;car,0.63,387.49
+1501822148835258.png,yolo11m,21,car;car;car;car;traffic light;traffic light;car;car;car;car;car;traffic light;car;car;traffic light;traffic light;car;traffic light;traffic light;car;traffic light,0.61,510.04
+1501822148835258.png,yolov5m,23,car;car;car;car;car;car;traffic light;car;traffic light;traffic light;car;car;car;car;car;car;traffic light;traffic light;traffic light;traffic light;traffic light;car;traffic light,0.62,395.35
+1501822149005660.png,yolo11m,24,car;car;car;car;car;car;car;traffic light;traffic light;traffic light;car;car;traffic light;traffic light;car;traffic light;traffic light;traffic light;car;truck;car;potted plant;car;car,0.59,524.83
+1501822149005660.png,yolov5m,19,car;car;car;car;traffic light;car;car;car;traffic light;traffic light;car;car;car;car;traffic light;traffic light;traffic light;car;traffic light,0.68,388.84
+1501822149174434.png,yolo11m,21,car;car;car;car;traffic light;car;car;traffic light;car;car;traffic light;car;traffic light;traffic light;truck;traffic light;car;traffic light;car;traffic light;car,0.65,559.40
+1501822149174434.png,yolov5m,20,car;car;car;car;car;car;car;car;traffic light;traffic light;car;car;traffic light;traffic light;traffic light;traffic light;car;truck;traffic light;car,0.72,519.91
+1501822149343505.png,yolo11m,21,car;car;car;car;car;car;car;traffic light;car;traffic light;traffic light;car;car;traffic light;traffic light;car;traffic light;traffic light;traffic light;traffic light;car,0.63,537.26
+1501822149343505.png,yolov5m,21,car;car;car;car;car;car;traffic light;traffic light;car;traffic light;car;car;traffic light;traffic light;car;traffic light;traffic light;car;car;traffic light;car,0.68,420.43
+1501822149681658.png,yolo11m,24,car;car;car;car;traffic light;car;traffic light;traffic light;car;car;car;traffic light;car;traffic light;car;traffic light;traffic light;car;car;traffic light;car;car;traffic light;car,0.62,575.56
+1501822149681658.png,yolov5m,26,car;car;car;car;car;traffic light;car;car;car;traffic light;traffic light;car;car;traffic light;car;traffic light;traffic light;traffic light;car;car;traffic light;car;traffic light;traffic light;car;car,0.63,365.72
+1501822149850704.png,yolo11m,24,car;car;traffic light;car;car;traffic light;traffic light;car;traffic light;car;car;car;car;car;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;traffic light;car;car,0.63,620.17
+1501822149850704.png,yolov5m,26,car;car;car;car;traffic light;car;car;car;traffic light;traffic light;car;traffic light;car;traffic light;traffic light;car;traffic light;car;traffic light;car;traffic light;car;car;car;car;car,0.62,378.09
+1501822150020811.png,yolo11m,20,car;car;car;car;traffic light;car;traffic light;traffic light;car;traffic light;car;car;traffic light;traffic light;car;traffic light;traffic light;car;car;car,0.65,505.91
+1501822150020811.png,yolov5m,23,car;car;car;car;car;car;traffic light;traffic light;traffic light;traffic light;car;traffic light;car;car;car;traffic light;traffic light;car;car;car;car;potted plant;traffic light,0.66,399.57
